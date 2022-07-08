@@ -1,0 +1,10 @@
+C:\Users\Pravin\Documents\MCUXpressoIDE_11.5.1_7266\workspace\Task1_TCA8418\drivers/fsl_clock.h:584:20:CLOCK_EnableClock	24	static
+C:\Users\Pravin\Documents\MCUXpressoIDE_11.5.1_7266\workspace\Task1_TCA8418\drivers/fsl_gpio.h:157:20:GPIO_WritePinOutput	24	static
+C:\Users\Pravin\Documents\MCUXpressoIDE_11.5.1_7266\workspace\Task1_TCA8418\drivers/fsl_port.h:256:20:PORT_SetPinConfig	32	static
+../source/Task1_TCA8418.c:173:6:i2c_write	24	static
+../source/Task1_TCA8418.c:203:9:i2c_read	24	static
+../source/Task1_TCA8418.c:263:13:i2c_release_bus_delay	16	static
+../source/Task1_TCA8418.c:272:6:BOARD_I2C_ReleaseBus	16	static
+../source/Task1_TCA8418.c:349:6:PORTA_IRQHandler	8	static
+../source/Task1_TCA8418.c:389:6:switch_stat	16	static
+../source/Task1_TCA8418.c:481:5:main	8	static
