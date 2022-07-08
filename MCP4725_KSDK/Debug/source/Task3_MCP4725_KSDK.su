@@ -1,0 +1,11 @@
+C:\Users\Pravin\Documents\MCUXpressoIDE_11.5.1_7266\workspace\Task3_MCP4725_KSDK\drivers/fsl_clock.h:584:20:CLOCK_EnableClock	24	static
+C:\Users\Pravin\Documents\MCUXpressoIDE_11.5.1_7266\workspace\Task3_MCP4725_KSDK\drivers/fsl_gpio.h:157:20:GPIO_WritePinOutput	24	static
+C:\Users\Pravin\Documents\MCUXpressoIDE_11.5.1_7266\workspace\Task3_MCP4725_KSDK\drivers/fsl_port.h:256:20:PORT_SetPinConfig	32	static
+../source/Task3_MCP4725_KSDK.c:43:13:i2c_release_bus_delay	16	static
+../source/Task3_MCP4725_KSDK.c:52:6:BOARD_I2C_ReleaseBus	16	static
+../source/Task3_MCP4725_KSDK.c:103:13:i2c_master_callback	24	static
+../source/Task3_MCP4725_KSDK.c:116:13:I2C_Init	24	static
+../source/Task3_MCP4725_KSDK.c:137:13:I2C_WriteAccelReg	64	static
+../source/Task3_MCP4725_KSDK.c:173:13:I2C_ReadAccelRegs	64	static
+../source/Task3_MCP4725_KSDK.c:213:6:setVoltage_Fast_Mode	32	static
+../source/Task3_MCP4725_KSDK.c:229:5:main	8	static

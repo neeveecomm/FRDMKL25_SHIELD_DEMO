@@ -1,0 +1,6 @@
+C:\Users\Pravin\Documents\MCUXpressoIDE_11.5.1_7266\workspace\Task3_MCP4725_KSDK\drivers/fsl_clock.h:584:20:CLOCK_EnableClock	24	static
+C:\Users\Pravin\Documents\MCUXpressoIDE_11.5.1_7266\workspace\Task3_MCP4725_KSDK\drivers/fsl_port.h:256:20:PORT_SetPinConfig	32	static
+C:\Users\Pravin\Documents\MCUXpressoIDE_11.5.1_7266\workspace\Task3_MCP4725_KSDK\drivers/fsl_port.h:321:20:PORT_SetPinMux	24	static
+../board/pin_mux.c:69:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:80:6:BOARD_InitPins	8	static
+../board/pin_mux.c:96:6:BOARD_I2C_ConfigurePins	16	static
