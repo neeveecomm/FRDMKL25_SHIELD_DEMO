@@ -1,0 +1,2 @@
+C:\Users\Pravin\Documents\MCUXpressoIDE_11.5.1_7266\workspace\Task4_BH1745_KSDK\drivers/fsl_clock.h:620:20:CLOCK_SetLpsci0Clock	16	static
+../board/board.c:44:6:BOARD_InitDebugConsole	16	static
